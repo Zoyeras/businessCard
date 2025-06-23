@@ -1,0 +1,62 @@
+body {
+  background-color: #fffadc;
+  font-family: "Poppins", sans-serif;
+}
+
+.encabezado {
+  background-color: #b6f500;
+  background-size: 10px;
+  text-align: center;
+  color: #b6f500;
+}
+
+.encabezado:hover {
+  color: #7daa03;
+  transition: 1s;
+  transform: scale(1.2);
+}
+
+.links img {
+  color: #123524;
+  width: 50px;
+}
+
+.info {
+  color: #7daa03;
+  text-align: center;
+}
+.aboutMe {
+  color: #7daa03;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin-top: 2rem;
+  padding: 10px 10px;
+  color: black;
+  background: #a4dd00;
+  border-color: #b6f500;
+  cursor: pointer;
+  transition: 1s;
+  border-radius: 100px;
+  margin: 0 auto;
+}
+button:hover {
+  background-color: chartreuse;
+  transform: scale(1.2);
+}
+
+.perfil img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 5px solid #b6f500;
+}
+.phrase {
+  text-align: right;
+  color: #7daa03;
+}
