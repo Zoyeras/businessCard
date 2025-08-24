@@ -174,12 +174,12 @@ export default function App() {
 
               <a
                 target="_blank"
-                href="cv_SamuelLoaiza.pdf"
+                href="https://cv-kappa-rust.vercel.app/"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center p-4 rounded-2xl transition-all duration-300 hover:scale-110 hover:shadow-lg bg-white/80 backdrop-blur-sm"
               >
                 <img
-                  src="https://cv-kappa-rust.vercel.app/"
+                  src="https://tinyurl.com/2av5qnoo"
                   alt="HV"
                   className="w-14 h-14 mb-2"
                 />
